@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanshariff9" alt="adnanshariff9" /></a> </p>
 
-- 🔭 I’m currently working on [Electricity_billing_system](https://github.com/adnanshariff9/Electricity_billing_system)
+- 🔭 I’m currently working on [Chatter Box](https://github.com/adnanshariff9/Chatter-Box)
 
-- 🌱 I’m currently learning **spring,nodeJS,android develpoment**
+- 🌱 I’m currently learning **spring boot,nodeJS**
 
 - 📫 How to reach me **adnanshariff.9@gmail.com**
 
