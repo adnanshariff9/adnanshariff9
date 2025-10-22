@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adnan Shariff</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h3 align="center">Salesfoece developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnanshariff9&label=Profile%20views&color=0e75b6&style=flat" alt="adnanshariff9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnanshariff9" alt="adnanshariff9" /></a> </p>
-
-- 🔭 I’m currently working on [Chatter Box](https://github.com/adnanshariff9/Chatter-Box)
-
-- 🌱 I’m currently learning **spring boot,nodeJS**
-
-- 📫 How to reach me **adnanshariff.9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
